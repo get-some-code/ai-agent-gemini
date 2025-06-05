@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+
+# Node projects (optional if using Node tools)
+node_modules/
+
+# Output files
+*.html
+*.json
+*.csv
+*.zip
+
+# Your tool-specific ignores
+*.sqlite
